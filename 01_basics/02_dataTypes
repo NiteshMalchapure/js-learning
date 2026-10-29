@@ -1,0 +1,17 @@
+let name="Nitesh"
+let age=18
+let isloged=true
+
+/*
+number--> 
+string -->in double quotes
+booleanj-->true/false
+bigInt-->for large numbers
+Null--> stand alone value(represention of empty value and it will consume space )
+undefined--> declered but not intialize(it will  not consume space)
+*/
+console.log(typeof "nitesh")
+console.log(typeof null)
+//null -->type--> Object
+console.log(typeof undefined)
+// undefined -->type-->undefined
