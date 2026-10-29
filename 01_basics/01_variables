@@ -1,0 +1,20 @@
+let accountEmail="nitesh@gmal.com"
+const accountId =11442233
+var accountPassword = 123213;
+accountCity="Banglore"
+
+let accountState;
+// if we doesnot decleare --> it set as undefined
+
+
+//accountId=45621;
+// let--> can't redecleare | can reinitialize
+// const  cannot be redecleard
+// var --> can redelceare and reintialize 
+/* prefer not to use var
+(*Because of isue in the block scope and fuctional scopr)*/
+ console.log(accountId);
+ console.table([accountEmail,accountId,accountPassword,accountCity]);
+ console.log(accountState);
+    
+ 
